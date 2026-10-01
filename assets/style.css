@@ -90,6 +90,14 @@ h1 {
   padding-left: 12px;
   border-left: 2px solid var(--accent);
 }
+.motto-src {
+  font-style: normal;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--faint);
+  white-space: nowrap;
+}
+.motto-src cite { font-style: italic; }
 .portrait {
   width: 200px;
   height: 240px;
