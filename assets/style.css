@@ -82,6 +82,14 @@ h1 {
   line-height: 1.5;
   margin: 0 0 22px;
 }
+.motto {
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--muted);
+  margin: -8px 0 22px;
+  padding-left: 12px;
+  border-left: 2px solid var(--accent);
+}
 .portrait {
   width: 200px;
   height: 240px;
